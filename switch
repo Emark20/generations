@@ -1,0 +1,27 @@
+#include <stdio.h>
+int main (){
+int year of birth=2003;
+switch(year of birth){
+case 1901...1927:
+                printf("GI generation\n");
+                break;
+case 1928...1945:
+                printf("Silent generation\n");
+                break;
+case 1946...1964:
+                printf("Baby boom generation\n");
+                break;
+case 1965...1980;
+                printf("Generation x");
+                break;
+case 1981...1996;
+                printf("Millenial generation");
+                break;
+case 1997...2010;
+                printf("Generation Z");
+                break;
+case 2010...2024;
+                printf("Generation alpha");
+                break;
+default:
+       printf("invalid year");
